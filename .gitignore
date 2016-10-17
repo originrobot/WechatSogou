@@ -13,3 +13,4 @@ README.rst
 demo/cache
 demo/yu_save.py
 demo/wechatsogou
+*.pyc
